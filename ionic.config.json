@@ -1,5 +1,7 @@
 {
   "name": "triPosConsumer",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
