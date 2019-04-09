@@ -16,11 +16,9 @@ export class HomePage {
 
   var failure = function() {
       alert("Error calling Hello Plugin");
-  }
-
+  } 
   tripos.greet("KMIt world", success, failure);
   }
 
-
-  
+ 
 }
